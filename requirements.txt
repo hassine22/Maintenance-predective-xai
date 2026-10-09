@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+imbalanced-learn
+ucimlrepo
+plotly
+shap
+joblib
+fastapi
+uvicorn
+requests
+streamlit
+ipykernel
+ipywidgets
+nbformat
